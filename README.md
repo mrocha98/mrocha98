@@ -17,6 +17,6 @@ Now check this cool cards with some status about my codes/activities.
 
 ## Congratulations
 
-You read a lot of stuff, now click in the button to claim your prize!
+You read a lot of stuff, now click in the link to claim your prize!
 
-[![Button with text Click Here](https://assets.stickpng.com/thumbs/59060c290cbeef0acff9a659.png)](https://bit.ly/37lHPPa)
+[FREE STUFF](https://bit.ly/37lHPPa)
