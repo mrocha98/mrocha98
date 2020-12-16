@@ -1,5 +1,52 @@
-<div align="center" style="padding: 5rem">
-  <a href="https://tinyurl.com/dymbb3a">
-    <img src="https://i.pinimg.com/600x315/25/a4/f6/25a4f6e6dadce86400c07d89130cd175.jpg" alt="You are the 100.000th visitor! Click here to claim your prize!">
+# Welcome
+
+My name is Matheus, I'm from ＢＲＡＺＩＬ and I'm `{ new Date().getFullYear() - 1998 }`
+years old.
+
+Let's connect in Linkedin!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://bit.ly/3p2tayB)](https://bit.ly/3p2tayB)
+
+Now check this cool cards with some status about my codes/activities.
+
+![Matheus Rocha's github stats](https://github-readme-stats.vercel.app/api?username=mrocha98&theme=great-gatsby&count_private=true&show_icons=true)
+
+[![Matheus Rocha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrocha98&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrocha98&theme=great-gatsby&layout=compact&langs_count=10)](https://github.com/mrocha98/github-readme-stats)
+
+## Congratulations
+
+You read a lot of stuff, now click in the button to claim your prize!
+
+<div class="link-container">
+  <a class="link-button" href="https://bit.ly/37lHPPa" taget="_blank">
+    FREE STUFF
   </a>
 </div>
+
+<style>
+  .link-container {
+    text-align: center;
+    padding: 3rem;
+  }
+
+  .link-button {
+    appearance: button;
+
+    background-color: #010409;
+    border: 1px solid #ffa500;
+    color: #ffa500;
+
+    text-decoration: none;
+
+    padding: 1.75rem;
+
+    opacity: 1;
+    transition: opacity 200ms;
+  }
+
+  .link-button:hover, .link-button:active {
+    opacity: 0.65;
+  }
+</style>
