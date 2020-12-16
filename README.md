@@ -19,34 +19,4 @@ Now check this cool cards with some status about my codes/activities.
 
 You read a lot of stuff, now click in the button to claim your prize!
 
-<div class="link-container">
-  <a class="link-button" href="https://bit.ly/37lHPPa" taget="_blank">
-    FREE STUFF
-  </a>
-</div>
-
-<style>
-  .link-container {
-    text-align: center;
-    padding: 3rem;
-  }
-
-  .link-button {
-    appearance: button;
-
-    background-color: #010409;
-    border: 1px solid #ffa500;
-    color: #ffa500;
-
-    text-decoration: none;
-
-    padding: 1.75rem;
-
-    opacity: 1;
-    transition: opacity 200ms;
-  }
-
-  .link-button:hover, .link-button:active {
-    opacity: 0.65;
-  }
-</style>
+[![Button with text Click Here](https://assets.stickpng.com/thumbs/59060c290cbeef0acff9a659.png)](https://bit.ly/37lHPPa)
