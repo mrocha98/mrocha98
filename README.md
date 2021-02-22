@@ -5,7 +5,7 @@ years old.
 
 Let's connect in Linkedin!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://bit.ly/3p2tayB)](https://bit.ly/3p2tayB)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mrochasilva98)](https://bit.ly/3p2tayB)
 
 Now check this cool cards with some status about my codes/activities.
 
